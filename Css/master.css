@@ -1,0 +1,98 @@
+.red{
+    color: red;
+ }
+.green{
+    color: green;
+ }
+.blue{
+    color: rgba(0, 21, 255, 0.443);
+ }
+.pink{
+    color: rgb(255, 192, 203 );
+}
+.yellow-m { color: yellow;
+
+}
+.bg-blue {
+    background-color: blue;
+    width: 50%;
+    text-align: center;
+}
+.white{
+    color: white;
+
+}
+.MULTIPLE{
+    background-image: url(../image/Blue_Dyes.webp) ;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+.repeat-y{
+    background-image: url(../image/Screenshot_20-1-2025_15614_.jpeg) ;
+    background-repeat:repeat-y;
+    height: 499px;
+    }
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
+.Cgreen{
+    background-color: rgba(78, 152, 78, 0.368);
+    padding: 50px;
+    width: 70%;
+}
+
+.backgwhite{
+    background-color: azure;
+}
+.backblue{
+    background-image: url(../image/pebbles-stones-background-with-black-toned-ai-generated-photo.jpg);
+    color: azure;
+}
+.backblack{
+    background-image: url(../image/download.jpg);
+    color: azure;
+}
+.backyelow{
+    background-color: yellow;
+    width: 50%;
+    text-align: center;  
+}
+#i{
+    background-color: aquamarine;
+    color: bisque;
+    width: 50%;
+}
+.bg-plum {
+    background-color: plum;
+    width: 50%;
+    text-align: center;
+}
+.bg-orange {
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+   
+}
+.border {
+    padding: 20px;
+    color: gray;
+    border-style:groove;
+    width: 30%;
+}
+
+.gradient{
+    background: rgb(212,255,0);
+    background: linear-gradient(90deg, rgba(212,255,0,1) 50%, rgba(128,0,90,1) 50%, rgba(5,198,5,1) 100%);
+    height: 300px;
+}
+table ,th,td{
+    border: 10 px;
+    background-color: rgba(37, 37, 247, 0.498);
+}
+.center{
+    text-align: center;
+}
